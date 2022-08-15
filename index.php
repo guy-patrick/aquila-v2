@@ -6,7 +6,7 @@
 */
     get_header();
 ?>
-    <div class="content">This is the content !</div>
+    <div class="content">This is the content</div>
 <?php
     get_footer();
 
